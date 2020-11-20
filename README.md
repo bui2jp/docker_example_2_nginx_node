@@ -1,4 +1,4 @@
-# Docker SPA(Vue) WEBAPI(node)
+# Docker Nginx WEBAPI(node)
 
 docker,docker-composeを使って簡単なWEB環境を作成
 
